@@ -39,7 +39,7 @@ public class AnimatedSnake {
      * Feel free to customize this to, for example, have a specific snake head and tail.
      */
     protected void generateSnake() {
-        //TODO: fill the array with shapes from generateRandomShape()
+        //TODO: fill the array with shapes from getRandomShape()
         // !Do not forget to add those shapes to the canvas as well as the array!
 
     }
